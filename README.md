@@ -7,6 +7,11 @@ Sobre o projeto:
 # Ferramenta de edição de fotos:
 - Photoshop
 
+# Linguagens usadas:
+- HTML5
+- CSS3
+- Javascript
+
 # Link para o projeto:
 
 https://gruporespect.com.br/
